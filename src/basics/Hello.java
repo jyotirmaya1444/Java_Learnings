@@ -2,6 +2,6 @@ package basics;
 
 public class Hello {
     static void main() {
-        System.out.println("hellow");
+        System.out.println("hellow Java");
     }
 }
